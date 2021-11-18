@@ -114,7 +114,7 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 600;
   font-size: 13px;
-  width: 88px;
+  width: 90px;
   line-height: 16px;
   padding-top: 8px;
   color: rgb(122, 134, 154);
@@ -147,15 +147,18 @@
   padding-top: 20px;
 }
 
-.lmt {
+.ht {
   width: 53px;
   height: 24px;
   display: flex;
   align-items: center;
-  color: rgb(235, 235, 255);
+  background-color: #ebebff;
   border-radius: 8px;
   padding: 4px 12px;
   border: 0;
+  font-size: 15px;
+  font-weight: 500;
+  color: #6070ff;
 }
 
 .ssc {
@@ -163,11 +166,14 @@
   height: 24px;
   display: flex;
   align-items: center;
-  color: rgb(235, 235, 255);
+  background-color: rgb(235, 235, 255);
   border-radius: 8px;
   padding: 4px 12px;
   border: 0;
   margin-left: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #6070ff;
 }
 
 .sj {
@@ -175,11 +181,14 @@
   height: 24px;
   display: flex;
   align-items: center;
-  color: rgb(235, 235, 255);
+  background-color: rgb(235, 235, 255);
   border-radius: 8px;
   padding: 4px 12px;
   border: 0;
   margin-left: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  color: #6070ff;
 }
 
 .butto {
@@ -207,8 +216,9 @@ a {
   height: 48px;
   margin-left: -11rem;
   margin-top: 5px;
-  color: rgb(255, 255, 255);
-  background-color: white;
+  color: #396df2;
+  background-color: #fff;
+  font-size: 17px;
 }
 
 .aboutself {
@@ -297,17 +307,17 @@ a {
   align-items: center;
   width: 162px;
   height: 48px;
-  border: 1px solid rgb(96, 112, 255);
+  border: 1px solid #6070ff;
   border-radius: 7px;
-  background-color: white;
-  color: rgb(57, 109, 242);
+  background-color: #fff;
+  color: #396df2;
   font-family: 'Poppins', sans-serif;
   font-size: 17px;
-  padding: 12px;
+  padding: 4px;
   letter-spacing: 00.03em;
   margin-top: 15px;
   margin-left: 16px;
-  padding-left: 30px;
+  padding-left: 10px;
 }
 
 .language {
@@ -320,6 +330,7 @@ a {
   width: 237px;
   height: 24px;
   padding-top: 30px;
+  list-style-type: none;
 }
 
 .dropdown {
@@ -334,6 +345,10 @@ a {
 .languages {
   display: inline-flex;
   align-items: baseline;
+}
+
+.ellip {
+  list-style-type: none;
 }
 
 .ellipse {
@@ -386,6 +401,8 @@ a {
   font-size: 20px;
   width: 237px;
   height: 24px;
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .frame {
