@@ -4,7 +4,7 @@
 }
 
 .main {
-  background-color: rgb(229, 229, 229);
+  background-color: #e5e5e5;
   width: 376px;
   height: 5051px;
   padding-top: 20px;
@@ -29,9 +29,9 @@
   padding-top: 30px;
   padding-right: 8px;
   padding-bottom: 16px;
-  border: 1px solid rgb(223, 225, 230);
+  border: 1px solid #dfe1e6;
   border-radius: 16px;
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   align-items: center;
   margin-left: 16px;
   margin-right: 16px;
@@ -45,9 +45,9 @@
   padding-top: 30px;
   padding-right: 8px;
   padding-bottom: 16px;
-  border: 1px solid rgb(223, 225, 230);
+  border: 1px solid #dfe1e6;
   border-radius: 16px;
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   align-items: center;
   margin-left: 16px;
   margin-right: 16px;
@@ -70,7 +70,7 @@
   font-weight: 700;
   font-size: 25px;
   line-height: 44px;
-  color: rgb(23, 43, 77);
+  color: #172b4d;
   margin: 12px 0;
   font-style: normal;
 }
@@ -82,7 +82,7 @@
   font-weight: 700;
   font-size: 25px;
   line-height: 44px;
-  color: rgb(23, 43, 77);
+  color: #172b4d;
   margin: 12px 0;
   font-style: normal;
 }
@@ -103,7 +103,7 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  color: rgb(52, 69, 99);
+  color: #344563;
   width: 55px;
   height: 16px;
   padding-top: 8px;
@@ -117,7 +117,7 @@
   width: 90px;
   line-height: 16px;
   padding-top: 8px;
-  color: rgb(122, 134, 154);
+  color: #7a869a;
   list-style: disc;
   height: 16px;
   padding-left: 20px;
@@ -130,7 +130,7 @@
   width: 29px;
   line-height: 16px;
   padding-top: 8px;
-  color: rgb(122, 134, 154);
+  color: #7a869a;
   list-style: disc;
   height: 16px;
   padding-left: 20px;
@@ -143,7 +143,7 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
-  color: rgb(52, 69, 99);
+  color: #344563;
   padding-top: 20px;
 }
 
@@ -166,7 +166,7 @@
   height: 24px;
   display: flex;
   align-items: center;
-  background-color: rgb(235, 235, 255);
+  background-color: #ebebff;
   border-radius: 8px;
   padding: 4px 12px;
   border: 0;
@@ -181,7 +181,7 @@
   height: 24px;
   display: flex;
   align-items: center;
-  background-color: rgb(235, 235, 255);
+  background-color: #ebebff;
   border-radius: 8px;
   padding: 4px 12px;
   border: 0;
@@ -204,7 +204,7 @@ a {
   font-weight: 500;
   font-size: 12px;
   letter-spacing: 0.03em;
-  color: rgb(96, 112, 255);
+  color: #6070ff;
   text-decoration: none;
 }
 
@@ -223,7 +223,7 @@ a {
 
 .aboutself {
   display: flex;
-  background-color: white;
+  background-color: #fff;
   border-top-right-radius: 25px;
 }
 
@@ -232,7 +232,7 @@ a {
   font-size: 25px;
   line-height: 52px;
   font-weight: 700;
-  color: rgb(23, 43, 77);
+  color: #172b4d;
   width: 327px;
   height: 101px;
   padding-top: 40px;
@@ -244,7 +244,7 @@ a {
   font-size: 16px;
   line-height: 24px;
   font-weight: 400;
-  color: rgb(52, 69, 99);
+  color: #344563;
   padding-left: 16px;
   padding-top: 10px;
   width: 327px;
@@ -256,7 +256,7 @@ a {
   font-size: 16px;
   line-height: 24px;
   font-weight: 500;
-  color: rgb(127, 140, 255);
+  color: #7f8cff;
   padding-left: 16px;
   padding-top: 7px;
 }
@@ -271,7 +271,7 @@ a {
 .twitter {
   width: 19.99px;
   height: 19.96px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
   padding-left: 20px;
 }
 
@@ -279,27 +279,27 @@ a {
   width: 20px;
   height: 16px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .linkedin {
   width: 20px;
   height: 20px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .github {
   width: 20px;
   height: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .vector {
   width: 14.17px;
   height: 20px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .resume {
@@ -325,7 +325,7 @@ a {
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   font-size: 20px;
-  color: black;
+  color: #000;
   display: flex;
   width: 237px;
   height: 24px;
@@ -336,7 +336,7 @@ a {
 .dropdown {
   width: 14px;
   height: 8px;
-  color: rgb(94, 108, 132);
+  color: #5e6c84;
   display: inline-flex;
   align-items: flex-end;
   padding-left: 50px;
@@ -355,7 +355,7 @@ a {
   display: inline-flex;
   align-items: center;
   padding-left: 16px;
-  background-color: rgb(247, 247, 249);
+  background-color: #f7f7f9;
   width: 303px;
   height: 66.72px;
   border-radius: 8px;
@@ -369,7 +369,7 @@ a {
   display: inline-flex;
   align-items: center;
   padding-left: 16px;
-  background-color: rgb(247, 247, 249);
+  background-color: #f7f7f9;
   width: 303px;
   height: 66.72px;
   border-radius: 8px;
@@ -383,7 +383,7 @@ a {
   display: inline-flex;
   align-items: center;
   padding-left: 16px;
-  background-color: rgb(247, 247, 249);
+  background-color: #f7f7f9;
   width: 303px;
   height: 66.72px;
   border-radius: 8px;
@@ -448,9 +448,9 @@ body {
   height: 650px;
   padding-top: 0;
   padding-bottom: 16px;
-  border: 1px solid rgb(223, 225, 230);
+  border: 1px solid #dfe1e6;
   border-bottom-left-radius: 25px;
-  background-color: rgb(255, 255, 255);
+  background-color: #fff;
   align-items: center;
   padding-left: -2rem;
 }
@@ -470,7 +470,7 @@ body {
   font-size: 13px;
   line-height: 16px;
   padding-top: 0;
-  color: rgb(122, 134, 154);
+  color: #7a869a;
   padding-right: 0;
   padding-bottom: 0;
   padding-left: 0;
@@ -489,7 +489,7 @@ body {
   padding-top: 90px;
   padding-left: 40px;
   padding-left: 16px;
-  color: rgb(23, 43, 77);
+  color: #172b4d;
 }
 
 .paragraph {
@@ -501,7 +501,7 @@ body {
   font-size: 16px;
   padding-left: 16px;
   padding-top: 30px;
-  color: rgb(52, 69, 99);
+  color: #344563;
 }
 
 .connect1 {
@@ -512,7 +512,7 @@ body {
   padding-left: 40px;
   padding-left: 16px;
   padding-top: 5px;
-  color: rgb(127, 140, 255);
+  color: #7f8cff;
   width: 200px;
   height: 24px;
 }
@@ -529,32 +529,33 @@ body {
 .twitter1 {
   width: 19.99px;
   height: 19.96px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .linkedin1 {
   width: 20px;
   height: 20px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .email1 {
   width: 20px;
   height: 16px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .github1 {
   width: 17.99px;
   height: 20px;
   padding-left: 20px;
-  color: rgb(80, 95, 121);
+  color: #505f79;
 }
 
 .vector1 {
   width: 14.17px;
   height: 20px;
   padding-left: 20px;
+  color: #505f79;
 }
