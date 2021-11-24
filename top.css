@@ -1,0 +1,124 @@
+body {
+  display: flex;
+  width: 375px;
+  height: 718px;
+}
+
+.toolbar {
+  width: 375px;
+  display: inline-flex;
+  height: 48px;
+  padding-left: 28px;
+  padding-bottom: 30px;
+}
+
+.menu {
+  text-align: left;
+  display: inline-flex;
+  padding-left: 200px;
+}
+
+.headline {
+  position: absolute;
+  display: flex;
+  flex-direction: column;
+  width: 375px;
+  height: 604px;
+  background-image: url("images/headlinebackground.png");
+  background-repeat: no-repeat;
+  background-position: 100%;
+  padding-top: 50px;
+  padding-bottom: 114px;
+  padding-left: 0;
+  padding-right: 24px;
+}
+
+.heading {
+  align-items: center;
+  font-family: 'Poppins', sans-serif;
+  font-size: 32px;
+  font-weight: 700;
+  font-style: normal;
+  line-height: 52px;
+  width: 327px;
+  height: 150px;
+  top: 114px;
+  left: 24px;
+  padding-top: 90px;
+  padding-left: 40px;
+  color: rgb(23, 43, 77);
+}
+
+.paragraph {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 400;
+  line-height: 24px;
+  width: 327px;
+  height: 146px;
+  font-size: 16px;
+  padding-left: 40px;
+  padding-top: 50px;
+  color: rgb(52, 69, 99);
+}
+
+.connect {
+  font-family: 'Poppins', sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 24px;
+  padding-left: 40px;
+  padding-top: 5px;
+  color: rgb(127, 140, 255);
+  width: 200px;
+  height: 24px;
+}
+
+.contact {
+  margin: 0;
+  padding-left: 40px;
+  padding-top: 3px;
+}
+
+ul {
+  padding-inline-start: 0;
+  display: inline-flex;
+  align-items: baseline;
+}
+
+li {
+  list-style-type: none;
+}
+
+.twitter {
+  width: 19.99px;
+  height: 19.96px;
+  color: rgb(80, 95, 121);
+}
+
+.linkedin {
+  width: 20px;
+  height: 20px;
+  padding-left: 20px;
+  color: rgb(80, 95, 121);
+}
+
+.email {
+  width: 20px;
+  height: 16px;
+  padding-left: 20px;
+  color: rgb(80, 95, 121);
+}
+
+.github {
+  width: 17.99px;
+  height: 20px;
+  padding-left: 20px;
+  color: rgb(80, 95, 121);
+}
+
+.vector {
+  width: 14.17px;
+  height: 20px;
+  padding-left: 20px;
+  color: rgb(80, 95, 121);
+}
