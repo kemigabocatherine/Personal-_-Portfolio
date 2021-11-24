@@ -32,4 +32,5 @@ This project contains information about me and my projects It shows the work I h
 
 ## Contact
 
-GitHub:[@GITHUB](https://github.com/kemigabocatherine)
+GitHub:[@githubhandle](https://github.com/kemigabocatherine)
+Twitter:[]
