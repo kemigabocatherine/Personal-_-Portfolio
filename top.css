@@ -430,7 +430,7 @@ body {
 
 .toolbar {
   width: 375px;
-  position: absolute;
+  display: inline-flex;
   height: 48px;
   padding-left: 8px;
   padding-bottom: 30px;
