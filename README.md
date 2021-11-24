@@ -33,6 +33,7 @@ This project contains information about me and my projects It shows the work I h
 ## Contact
 
 GitHub:[@githubhandle](https://github.com/kemigabocatherine)
+
 Twitter:[@twitterhandle](https://twitter.com/catherinek205)
 
 ## Show your support
