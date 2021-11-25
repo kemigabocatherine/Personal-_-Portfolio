@@ -571,3 +571,27 @@ hr {
   padding-left: 20px;
   color: #505f79;
 }
+
+button.pro1:enabled,
+button.resume:enabled {
+  background: #fff;
+  color: #6070ff;
+}
+
+button.pro1:hover,
+button.resume:hover {
+  background: #6070ff;
+  color: #fff;
+}
+
+button.pro1:active,
+button.resume:active {
+  background: #2230d2;
+  color: #fff;
+}
+
+button.pro1:disabled,
+button.resume:disabled {
+  border: 1px solid #c1c7d0;
+  color: #5e6c84;
+}
