@@ -4,7 +4,7 @@
 }
 
 .main {
-  background-color: #e5e5e5;
+  background-color: #f7f7f9;
   width: 375px;
   height: 5410px;
   padding-top: 19px;
@@ -73,7 +73,7 @@
   height: 80px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 32px;
   line-height: 44px;
   color: #172b4d;
   margin: 12px 0;
@@ -85,7 +85,7 @@
   height: 36px;
   font-family: 'Poppins', sans-serif;
   font-weight: 700;
-  font-size: 25px;
+  font-size: 32px;
   line-height: 44px;
   color: #172b4d;
   margin: 12px 0;
@@ -98,9 +98,9 @@
   align-items: center;
   width: 236px;
   height: 32px;
-  padding-top: 20px;
-  padding-inline-start: 0;
-  margin-left: -54px;
+  padding-top: 3px;
+  margin-right: 60px;
+  margin-top: 5px;
 }
 
 .canopy {
@@ -113,6 +113,7 @@
   height: 16px;
   padding-top: 8px;
   list-style-type: none;
+  padding-right: 27px;
 }
 
 .end1 {
@@ -125,7 +126,8 @@
   color: #7a869a;
   list-style: disc;
   height: 16px;
-  padding-left: 20px;
+  padding-left: 4px;
+  padding-right: 27px;
 }
 
 .end {
@@ -138,7 +140,7 @@
   color: #7a869a;
   list-style: disc;
   height: 16px;
-  padding-left: 20px;
+  padding-left: 4px;
 }
 
 .p {
@@ -229,19 +231,21 @@ a {
 .aboutself {
   display: flex;
   background-color: #fff;
-  border-top-right-radius: 25px;
+  border-top-right-radius: 90px;
 }
 
 .about {
   font-family: 'Poppins', sans-serif;
-  font-size: 25px;
+  font-size: 32px;
   line-height: 52px;
   font-weight: 700;
   color: #172b4d;
   width: 327px;
   height: 101px;
-  padding-top: 40px;
+  padding-top: 80px;
   padding-left: 16px;
+  display: flex;
+  align-items: center;
 }
 
 .par {
@@ -271,6 +275,7 @@ a {
   padding-left: 16px;
   align-items: baseline;
   padding-top: 15px;
+  list-style-type: none;
 }
 
 .twitter {
@@ -430,11 +435,11 @@ hr {
 .home {
   display: flex;
   width: 375px;
-  height: 718px;
+  height: 716px;
   padding-top: 0;
   padding-bottom: 16px;
-  border: 1px solid #dfe1e6;
-  border-bottom-left-radius: 25px;
+  border: 0.5px;
+  border-bottom-left-radius: 85px;
   background-color: #fff;
   align-items: center;
   padding-left: -2rem;
@@ -529,6 +534,7 @@ hr {
   padding-top: 1px;
   display: inline-flex;
   align-items: baseline;
+  list-style-type: none;
 }
 
 .twitter1 {
