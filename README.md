@@ -16,7 +16,7 @@ This project contains information about me and my projects It shows the work I h
 
 2 Open that folder in your terminal by running the command; 
 
-* cd name of folder
+* cd "name of folder"
 
 3 Clone the repository by running the following command in your terminal;
 
