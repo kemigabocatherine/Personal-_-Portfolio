@@ -5,11 +5,16 @@
 
 .main {
   background-color: #e5e5e5;
-  width: 376px;
-  height: 5051px;
+  width: 375px;
+  height: 5410px;
   padding-top: 19px;
   padding-left: 0;
   display: grid;
+}
+
+.projects {
+  display: grid;
+  margin-top: 0;
 }
 
 .project1,
@@ -422,10 +427,18 @@ hr {
   margin-right: 25px;
 }
 
-body {
+.home {
   display: flex;
-  width: 376px;
+  width: 375px;
   height: 718px;
+  padding-top: 0;
+  padding-bottom: 16px;
+  border: 1px solid #dfe1e6;
+  border-bottom-left-radius: 25px;
+  background-color: #fff;
+  align-items: center;
+  padding-left: -2rem;
+  margin-bottom: -430px;
 }
 
 .toolbar {
@@ -434,7 +447,8 @@ body {
   height: 48px;
   padding-left: 8px;
   padding-bottom: 30px;
-  padding-top: 10px;
+  padding-top: 0;
+  margin-bottom: 600px;
 }
 
 .menu {
@@ -443,24 +457,11 @@ body {
   padding-left: 200px;
 }
 
-.header {
-  width: 374px;
-  height: 650px;
-  padding-top: 0;
-  padding-bottom: 16px;
-  border: 1px solid #dfe1e6;
-  border-bottom-left-radius: 25px;
-  background-color: #fff;
-  align-items: center;
-  padding-left: -2rem;
-}
-
 .headline {
   position: absolute;
   display: flex;
   flex-direction: column;
   width: 375px;
-  width: 376px;
   height: 604px;
   background-image: url("images/headlinebackground.png");
   background-repeat: no-repeat;
@@ -476,6 +477,10 @@ body {
   padding-left: 0;
 }
 
+.hea {
+  padding-top: 90px;
+}
+
 .heading {
   align-items: center;
   font-family: 'Poppins', sans-serif;
@@ -486,7 +491,7 @@ body {
   line-height: 52px;
   top: 114px;
   left: 24px;
-  padding-top: 90px;
+  padding-top: 0;
   padding-left: 40px;
   padding-left: 16px;
   color: #172b4d;
