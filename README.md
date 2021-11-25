@@ -10,25 +10,19 @@ This project contains information about me and my projects It shows the work I h
 
 ## Getting Started
 
-1 Create a new repository and clone it into your IDE
+**To get this project up and running in your local environment;**
 
-2 Create the different folders and files needed for the project;
+1 Create a new folder.
 
-* HTML and CSS linters file
+2 Open that folder in your terminal by running the command; 
 
-* README.md file
+*cd name of folder
 
-* .html file
+3 Clone the repository by running the following command in your terminal;
 
-* .css file
+*git clone "repository link"
 
-3 Set up your linters and commit to github
-
-4 Write your code and the styles and commit all the changes to your github account pushing into a feature branch
-
-5 Create a pull request
-
-6 Merge
+4 The project is then on your local
 
 ## Contact
 
