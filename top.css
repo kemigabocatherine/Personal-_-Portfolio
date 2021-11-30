@@ -692,7 +692,12 @@ textarea {
 }
 
 .submit:hover {
-  background-color: rgb(151, 161, 245);
+  background-color: #6070ff;
   color: #fff;
-  border: 0.5px solid rgb(192, 192, 192);
+  border: 0.5px solid #c0c0c0;
+}
+
+.submit:active {
+  background-color: #2230d2;
+  color: #fff;
 }
