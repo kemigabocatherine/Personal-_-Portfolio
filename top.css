@@ -679,3 +679,20 @@ textarea {
   padding-top: 15px;
   padding-left: 16px;
 }
+
+.submit {
+  padding: 12px 18px;
+  margin-left: 18.5px;
+  border-radius: 8px;
+  font-family: 'Poppins', sans-serif;
+  background-color: #fff;
+  letter-spacing: 1.5px;
+  cursor: pointer;
+  transition: background-color 500ms ease;
+}
+
+.submit:hover {
+  background-color: rgb(151, 161, 245);
+  color: #fff;
+  border: 0.5px solid rgb(192, 192, 192);
+}
