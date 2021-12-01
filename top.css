@@ -703,14 +703,28 @@ textarea {
 }
 
 .submit {
-  padding: 12px 18px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  width: 140px;
+  height: 48px;
+  padding-left: 13px;
   margin-left: 18.5px;
   border-radius: 8px;
   font-family: 'Poppins', sans-serif;
   background-color: #fff;
-  letter-spacing: 1.5px;
   cursor: pointer;
   transition: background-color 500ms ease;
+  font-size: 17px;
+  font-weight: 500;
+  color: #396df2;
+  letter-spacing: 00.03em;
+  border: 1px solid #6070ff;
+}
+
+.submit:enabled {
+  background: #fff;
+  color: #6070ff;
 }
 
 .submit:hover {
@@ -722,4 +736,9 @@ textarea {
 .submit:active {
   background-color: #2230d2;
   color: #fff;
+}
+
+.submit:disabled {
+  border: 1px solid #c1c7d0;
+  color: #5e6c84;
 }
