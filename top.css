@@ -1073,4 +1073,69 @@
     list-style: disc;
     padding-left: 4px;
   }
+
+  .p {
+    width: 496px;
+    height: 50px;
+    padding-top: 32px;
+    font-weight: 400;
+    font-family: Poppins, sans-serif;
+    color: #344563;
+    font-size: 16px;
+    line-height: 24px;
+  }
+
+  .ht {
+    width: 53px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    background-color: #ebebff;
+    border-radius: 8px;
+    padding: 4px 12px;
+    border: 0;
+    font-size: 15px;
+    font-weight: 500;
+    color: #6070ff;
+  }
+
+  .ssc {
+    width: 45px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    background-color: #ebebff;
+    border-radius: 8px;
+    padding: 4px 12px;
+    border: 0;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #6070ff;
+  }
+
+  .sj {
+    width: 89px;
+    height: 24px;
+    display: flex;
+    align-items: center;
+    background-color: #ebebff;
+    border-radius: 8px;
+    padding: 4px 12px;
+    border: 0;
+    margin-left: 10px;
+    font-size: 15px;
+    font-weight: 500;
+    color: #6070ff;
+  }
+
+  .butto {
+    display: flex;
+    padding-inline-start: 0;
+    margin-left: -6rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    list-style-type: none;
+  }
+
 }
