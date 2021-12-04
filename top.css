@@ -927,7 +927,7 @@
   }
 
   .twitter1:hover {
-    transform: scale(1.5)
+    transform: scale(1.5);
   }
 
   .linkedin1 {
@@ -939,7 +939,7 @@
   }
 
   .linkedin1:hover {
-    transform: scale(1.5)
+    transform: scale(1.5);
   }
 
   .email1 {
@@ -951,7 +951,7 @@
   }
 
   .email1:hover {
-    transform: scale(1.5)
+    transform: scale(1.5);
   }
 
   .github1 {
@@ -963,7 +963,7 @@
   }
 
   .github1:hover {
-    transform: scale(1.5)
+    transform: scale(1.5);
   }
 
   .vector1 {
@@ -975,7 +975,7 @@
   }
 
   .vector1:hover {
-    transform: scale(1.5)
+    transform: scale(1.5);
   }
 
   .projects {
