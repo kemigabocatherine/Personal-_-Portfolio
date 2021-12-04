@@ -7,9 +7,9 @@
 
   .main {
     background-color: #f7f7f9;
-    width: 375px;
+    width: 992px;
     height: 5410px;
-    padding-top: 19px;
+    padding-top: 0;
     padding-left: 0;
     display: grid;
   }
@@ -17,6 +17,8 @@
   .projects {
     display: grid;
     margin-top: 0;
+    padding-left: 75px;
+    text-align: center;
   }
 
   .project1,
@@ -759,7 +761,7 @@
 }
 
 /* Desktop version */
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 993px) {
   * {
     margin: 0;
     padding: 0;
@@ -769,7 +771,7 @@
     background-color: #f4f5f7;
     width: 1440px;
     height: 5125px;
-    padding-top: 19px;
+    padding-top: 0;
     padding-left: 0;
     display: grid;
     position: relative;
