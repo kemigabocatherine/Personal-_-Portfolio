@@ -913,6 +913,7 @@
     padding-inline-start: 0;
     padding-left: 260px;
     padding-top: 1px;
+    margin-top: 5px;
     display: inline-flex;
     align-items: baseline;
     list-style-type: none;
@@ -922,6 +923,11 @@
     width: 19.99px;
     height: 19.96px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .twitter1:hover {
+    transform: scale(1.5);
   }
 
   .linkedin1 {
@@ -929,6 +935,11 @@
     height: 20px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .linkedin1:hover {
+    transform: scale(1.5);
   }
 
   .email1 {
@@ -936,6 +947,11 @@
     height: 16px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .email1:hover {
+    transform: scale(1.5);
   }
 
   .github1 {
@@ -943,6 +959,11 @@
     height: 20px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .github1:hover {
+    transform: scale(1.5);
   }
 
   .vector1 {
@@ -950,6 +971,11 @@
     height: 20px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .vector1:hover {
+    transform: scale(1.5);
   }
 
   .projects {
@@ -1166,6 +1192,7 @@
     color: #396df2;
     background-color: #fff;
     font-size: 17px;
+    transition: background 250ms ease-in;
   }
 
   button.pro1:enabled,
@@ -1275,6 +1302,11 @@
     height: 19.96px;
     color: #505f79;
     padding-left: 20px;
+    transition: transform 500ms ease;
+  }
+
+  .twitter:hover {
+    transform: scale(1.5);
   }
 
   .email {
@@ -1282,6 +1314,11 @@
     height: 16px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .email:hover {
+    transform: scale(1.5);
   }
 
   .linkedin {
@@ -1289,12 +1326,22 @@
     height: 20px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .linkedin:hover {
+    transform: scale(1.5);
   }
 
   .github {
     width: 20px;
     height: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .github:hover {
+    transform: scale(1.5);
   }
 
   .vector {
@@ -1302,6 +1349,11 @@
     height: 20px;
     padding-left: 20px;
     color: #505f79;
+    transition: transform 500ms ease;
+  }
+
+  .vector:hover {
+    transform: scale(1.5);
   }
 
   .resume {
